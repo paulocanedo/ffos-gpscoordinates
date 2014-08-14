@@ -2,18 +2,18 @@
   "name": "GpsCoordinates",
   "description": "Coordinates and some other stuffs from GPS",
   "launch_path": "/index.html",
-  "orientation": "portrait",
+  
   "developer": {
     "name": "Paulo Canedo",
     "url": "https://github.com/paulocanedo"
   },
   "locales": {
     "pt": {
-      "name": "GPS Coordinates",
+      "name": "Coordenadas GPS",
       "description": "Este aplicativo exibe informações completas sobre sua localização, como por exemplo Coordenadas Geográficas (latitude e longitude), também converte-as para Coordenadas UTM (Este e Norte em metros). Outras informações também podem ser obtidas: Meridiano Central, Zona UTM, Altitude e a acurácia da posição atual."
     },
     "en-US": {
-      "name": "Coordenadas GPS",
+      "name": "GPS Coordinates",
       "description": "This app shows a complete information about your location, like Geographics Coordinates (latitude and longitude), also convert it to plain UTM Coordinate (East and North in meters). Other information that you can obtain is: Central Meridian, UTM Zone, Altitude and the current location accuracy."
     }
   },
